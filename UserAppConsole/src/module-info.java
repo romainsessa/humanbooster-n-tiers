@@ -1,0 +1,3 @@
+module UserAppConsole {
+	requires UserAppBusiness;
+}
