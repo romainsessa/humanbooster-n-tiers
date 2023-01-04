@@ -1,0 +1,4 @@
+--patch-module
+UserApp2Consumer=_
+--add-reads
+UserApp2Consumer=ALL-UNNAMED

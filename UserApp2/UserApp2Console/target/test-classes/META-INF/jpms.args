@@ -1,0 +1,4 @@
+--patch-module
+UserApp2Console=_
+--add-reads
+UserApp2Console=ALL-UNNAMED
